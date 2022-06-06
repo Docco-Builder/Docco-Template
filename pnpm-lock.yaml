@@ -1,0 +1,7 @@
+lockfileVersion: 5.4
+
+specifiers:
+  docco: link:..\Docco
+
+dependencies:
+  docco: link:../Docco

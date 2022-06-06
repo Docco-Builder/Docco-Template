@@ -1,0 +1,13 @@
+{
+  "name": "docco.template",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npx docco"
+  },
+  "keywords": [],
+  "author": "Atulin",
+  "license": "MIT",
+  "devDependencies": {
+    "docco": "link:..\\Docco"
+  }
+}
